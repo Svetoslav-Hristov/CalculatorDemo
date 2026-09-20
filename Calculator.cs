@@ -9,6 +9,8 @@ public class Calculator
     {
         return a - b;
     }
+
+	//Enter new difference
     public double Multiply(double a, double b)
     {
         return a * b;
