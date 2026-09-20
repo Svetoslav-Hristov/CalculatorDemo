@@ -4,6 +4,7 @@ public class Calculator
     {
         return a + b;
     }
+    //Subtract method
     public double Subtract(double a, double b)
     {
         return a - b;
