@@ -12,6 +12,9 @@ public class Calculator
     {
         return a * b;
     }
+	
+	//Divide method with check for zero 
+	
     public double Divide(double a, double b)
     {
         if (b == 0)
