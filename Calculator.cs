@@ -1,6 +1,6 @@
 public class Calculator
 {
-	//Adding method 
+	 
     public double Add(double a, double b)
     {
         return a + b;
